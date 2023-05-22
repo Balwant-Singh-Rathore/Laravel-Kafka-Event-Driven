@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://kafka.apache.org/logos/kafka_logo--simple.png](https://blog.min.io/content/images/2021/09/1_kqpVTzo8b0e2oKdOjWQxZA.png" alt="Kafka Logo" width="200">
+    <img src="https://blog.min.io/content/images/2021/09/1_kqpVTzo8b0e2oKdOjWQxZA.png" alt="Kafka Logo" width="200">
 </p>
 
 # Laravel Kafka Event-Driven 🚀
