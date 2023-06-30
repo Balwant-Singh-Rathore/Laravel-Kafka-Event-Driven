@@ -30,3 +30,39 @@ To run this project locally, ensure that you have the following dependencies ins
 
 ```bash
 git clone https://github.com/Balwant-Singh-Rathore/Laravel-Kafka-Event-Driven
+```
+
+2. composer install:
+
+```bash
+composer install
+```
+
+3. Create .env and connect your local database to laravel application
+4. composer install:
+
+```bash
+php artisan migrate
+```
+
+5. Run ./start.sh and wait to finish script:
+
+```bash
+./start.sh
+```
+
+6. Run kafka consume command to comsume kafka message
+
+```bash
+php artisan kafka:consume
+```
+
+7. For Testing:
+   Connect to the Docker MySQL database, make changes to the movies table records, and witness real-time synchronization
+   of the records in your local database movies table. 🎉 🎉
+
+9. Stop:
+```bash
+./stop_and_destroy.sh
+```
+
