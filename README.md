@@ -39,7 +39,7 @@ composer install
 ```
 
 3. Create .env and connect your local database to Laravel application
-4. composer install:
+4. migrate migrations:
 
 ```bash
 php artisan migrate
