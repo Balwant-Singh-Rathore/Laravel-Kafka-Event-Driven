@@ -38,7 +38,7 @@ git clone https://github.com/Balwant-Singh-Rathore/Laravel-Kafka-Event-Driven
 composer install
 ```
 
-3. Create .env and connect your local database to laravel application
+3. Create .env and connect your local database to Laravel application
 4. composer install:
 
 ```bash
